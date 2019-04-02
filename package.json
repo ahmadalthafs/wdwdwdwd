@@ -1,0 +1,16 @@
+{
+  "name": "selly-bot",
+  "version": "1.0.0",
+  "description": "A bot made to automate role sales for Discord servers.",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "generate-serial-number": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parameters",
+  "license": "ISC"
+}
